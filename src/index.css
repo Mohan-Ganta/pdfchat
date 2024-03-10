@@ -1,0 +1,10 @@
+/* Define your base colors as custom properties */
+
+  /* Use the base colors throughout your stylesheets */
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  
+body{
+overflow: hidden;
+}

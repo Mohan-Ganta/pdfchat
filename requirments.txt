@@ -1,0 +1,5 @@
+!pip install -q -U google-generativeai
+!pip install PyPDF2
+
+!pip install flask
+!pip install flask-cors
